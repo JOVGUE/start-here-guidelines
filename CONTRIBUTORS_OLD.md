@@ -7330,6 +7330,8 @@
 
 - [@brenovlb](https://github.com/brenovlb)
 
+- [@henkerasmus](https://github.com/henkerasmus)
+
 - [@jorlar](https://github.com/jorlar)
 
 - [@Aticca-oss](https://github.com/Attica-oss)
@@ -15274,6 +15276,8 @@
 
 - [@RainDripz](https://github.com/RainDripz/)
 
+- [@jairus808] (https://github.com/jairus808)
+
 - [@AndyCarriere](https://github.com/AndyCarriere/)
 
 - [@AditKhandelwal](https://github.com/AditKhandelwal)
@@ -15304,3 +15308,6 @@
 
 - [@Eamos2](https://github.com/Eamos2)
 
+- [@programmingwithjoseph](https://github.com/programmingwithjoseph)
+
+- [@Malz00]   (https://github.com/Malz00)
